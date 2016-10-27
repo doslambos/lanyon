@@ -5,21 +5,25 @@
  * https://github.com/doslambos.
  */
 
-
-/*
- * Contents
- *
- * Global resets
- * Masthead
- * Sidebar
- * Slide effect
- * Posts and pages
- * Pagination
- * Reverse layout
- * Themes
- */
-
-
+body {
+  background-color:#222;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #ddd;
+}
+strong {
+  color: #dedede;
+}
+hr {
+  border-top-color: #333;
+  border-bottom-color: #111;
+}
+abbr {
+  color: #999;
+}
+abbr[title] {
+  border-bottom-color: #111;
+}
 .masthead-title {
   font-family: "Anton", serif;
 }
