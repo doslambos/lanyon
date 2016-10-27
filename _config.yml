@@ -8,7 +8,7 @@ title:               DōsLambōs
 tagline:             'Music, Art'
 description:         'We make music.  We draw.  We sing, we are.'
 url:                 http://doslambos.github.io
-baseurl:             'http://doslambos.github.io'
+baseurl:             'doslambos.github.io'
 
 # About/contact
 author:
