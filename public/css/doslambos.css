@@ -5,40 +5,9 @@
  * https://github.com/doslambos.
  */
 
-/** Dark background */
+/** Color settings */
 body {
-  background-color:#222;
-  color: #ddd;
-}
-.pagination-item {
-  color: #ddd;
-}
-h1, h2, h3, h4, h5, h6,
-strong,
-.masthead-title, .masthead-title a,
-.page-title, .post-title, .post-title a,
-a.pagination-item:hover  {
-  color: #fee;
-}
-abbr, blockquote,
-.masthead-title small,
-.post-date,
-.related,
-.pagination {
-  color: #bbb;
-}
-.related-posts li small {
-  color: #999;
-}
-hr, abbr[title], blockquote, table, th {
-  border-color: #111;
-}
-pre, code, .message {
-  background-color: #111;
-}
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #333;
+  background-color:#efefec;
 }
 
 /** Text and font changes */
